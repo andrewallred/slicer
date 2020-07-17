@@ -1,0 +1,21 @@
+{
+  "name": "mille-feuille",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mille-feuille"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "axios": "^0.19.2",
+    "ffmpeg-installer": "^1.0.2",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
