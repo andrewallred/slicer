@@ -29,6 +29,7 @@ ffmpeg.ffprobe('files/Cocteau.Richter.8x8.A.Chess.Sonata.iphone.m4v', function(e
 
         let ffm = ffmpeg('files/Cocteau.Richter.8x8.A.Chess.Sonata.iphone.m4v');
 
+        //this is a hack
         setTimeout(createSlice, 400 * index, ffm, index);
 
         index += 10;
