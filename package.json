@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ffmpeg-installer": "^1.0.2",
     "fluent-ffmpeg": "^2.1.2"
   }
